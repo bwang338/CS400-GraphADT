@@ -1,0 +1,7 @@
+505 University Ave, 615 Johnson St, 130, false
+505 University Ave, 975 University Ave, 15, false
+615 Johnson St, 975 University Ave, 5, false
+975 University Ave, 550 Park St, 20, false
+835 Dayton St, 550 Park St, 32, true
+550 Park St, 505 University Ave, 18, true
+550 Park St, 414 Gildman St, 23, true

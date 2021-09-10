@@ -1,0 +1,24 @@
+1115 Drury Lane
+1313 Johnson Street
+30
+True
+1300 University Ave
+1313 Johnson Street
+40
+False
+1115 Drury Lane
+1300 University Ave
+50
+True
+1212 Jackson Pkwy
+1313 Johnson Street
+60
+True
+1300 University Ave
+1212 Jackson Pkwy
+70
+False
+1400 Gorham Street
+1313 Johnson Street
+80
+True
